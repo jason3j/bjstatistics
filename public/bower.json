@@ -1,0 +1,13 @@
+{
+  "name": "public",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jason3j/bjstatistics",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
